@@ -3,15 +3,15 @@
 #### *Final Submission*
 
 # **Healthcare Database**
-##### *by* **~James FM**
+#### *by* **~James FM**
 
 SQL Backend &amp; C#/Dapper Frontend GUI for TCSS445 Database Systems Design (Spring 2021)
 
-Markup :  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ##### Assumptions: User can run an sql file type to set up database with SQL Sever
 
-Markup : 1. Take updated database creation using "Mare_James_backend.sql" and run it in SQL Sever.
+1. Take updated database creation using "Mare_James_backend.sql" and run it in SQL Sever.
 		 2. Extract the files from "Mare_James_Final_Submission.zip"
 		 3. Run the extracted *Executable*
 		 4. You can now either SEARCH using the features found in the top left of the "Patients Search/Insert" window 
