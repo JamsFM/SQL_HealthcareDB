@@ -9,7 +9,7 @@ SQL Backend &amp; C#/Dapper Frontend GUI for TCSS445 Database Systems Design (Sp
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-##### Assumptions: User can run an sql file type to set up database with SQL Sever
+#### Assumptions: User can run an sql file type to set up database with SQL Sever
 
 1. Take updated database creation using "Mare_James_backend.sql" and run it in SQL Sever.
 		 2. Extract the files from "Mare_James_Final_Submission.zip"
@@ -59,12 +59,12 @@ constraint attached to SSN. *Again, the Bug is in the Executable version, not th
 ##### Referenced: https://youtu.be/Et2khGnrIqc
 
 ===========================================================================
-##### Lastly 4 screenshots show the before & after shots of 2 senarios
+#### Lastly 4 screenshots show the before & after shots of 2 senarios
 	Senario 1#	a & b
 	Senario 2#	a & b
 
 
-##### Below is some values to readily INSERT some patients
+#### Below is some values to readily INSERT some patients
 
 	For Executable Version: (w/ SSN just in case)
 		10000001				10000001
