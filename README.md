@@ -58,7 +58,7 @@ constraint attached to SSN. *Again, the Bug is in the Executable version, not th
 
 ##### Referenced: https://youtu.be/Et2khGnrIqc
 
-====================================================================================================================
+===========================================================================
 ##### Lastly 4 screenshots show the before & after shots of 2 senarios
 	Senario 1#	a & b
 	Senario 2#	a & b
@@ -66,48 +66,48 @@ constraint attached to SSN. *Again, the Bug is in the Executable version, not th
 
 ##### Below is some values to readily INSERT some patients
 
-	~For Executable Version: (w/ SSN just in case)
-	10000001				10000001
-	1001					1001
-	Sir						Lizbeth
-	Steven					Melany
-	Murphy					31
-	Smith					385962475
-	26						120
-	123987852				1990-01-01
-	205						61
-	1993-06-30				Female
-	68						Kaiser Permanente
-	2019-03-07				2238502512
-	Male					4096105595
-	Medicade				2530499476
-	3608549625				381 Appleton Ave
-	1352486192				Tumwater
-	9382961754				WA
-	5156 Plum St			98511
-	Olympia					
-	Wa						
-	98805					
+	For Executable Version: (w/ SSN just in case)
+		10000001				10000001
+		1001					1001
+		Sir						Lizbeth
+		Steven					Melany
+		Murphy					31
+		Smith					385962475
+		26						120
+		123987852				1990-01-01
+		205						61
+		1993-06-30				Female
+		68						Kaiser Permanente
+		2019-03-07				2238502512
+		Male					4096105595
+		Medicade				2530499476
+		3608549625				381 Appleton Ave
+		1352486192				Tumwater
+		9382961754				WA
+		5156 Plum St			98511
+		Olympia					
+		Wa						
+		98805					
 
-	~For IDE Version: (w/out SSN to prove it works other than with the screenshots)
-	10000001				10000001
-	1001					1001
-	Meredith				Hazel
-	Rodolph					Christine
-	25						Johnson
-	173						Female
-	1997-10-24				22
-	63						115
-	Female					1999-6-15
-	Labor & Industries		62
-	7707417723				Medicade
-	4261513865				8321572352
-	5549302447				2872129650
-	3289 Alder Lane			4036573930
-	Tumwater				5914 Huntington St
-	WA						Kelso
-	98216					WA
-							98435
+	For IDE Version: (w/out SSN to prove it works other than with the screenshots)
+		10000001				10000001
+		1001					1001
+		Meredith				Hazel
+		Rodolph					Christine
+		25						Johnson
+		173						Female
+		1997-10-24				22
+		63						115
+		Female					1999-6-15
+		Labor & Industries		62
+		7707417723				Medicade
+		4261513865				8321572352
+		5549302447				2872129650
+		3289 Alder Lane			4036573930
+		Tumwater				5914 Huntington St
+		WA						Kelso
+		98216					WA
+								98435
 
-====================================================================================================================
+===========================================================================
 
