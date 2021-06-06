@@ -17,6 +17,7 @@ SQL Backend &amp; C#/Dapper Frontend GUI for TCSS445 Database Systems Design (Sp
 		 4. You can now either SEARCH using the features found in the top left of the "Patients Search/Insert" window 
 			that should have popped up under the header **"Search For Existing Patient(s)"** or althernatively you 
 			can INSERT using the remaing features. **The following will give more information**
+			
 			1. SEARCH
 				1. As long as you are correctly connected to the database then the search button will search for any 
 					patient as with matching "Last Name" so as to be able to find all people with the same last name
@@ -26,6 +27,7 @@ SQL Backend &amp; C#/Dapper Frontend GUI for TCSS445 Database Systems Design (Sp
 				4. The output will be a list of patients depending on how many patients match your search criteria 
 					and they should be order by PatientId in ascending order and should have the following format:
 					"[PatientId] (Suffix) FirstName MiddleName LastName"
+			
 			2. INSERT
 				1. Any TextBoxes with BLUE labels can be left empty for null values to take their place.
 				2. Date format is (YYYY-MM-DD) and *must* be followed even in the case 0001-01-09 although any years 
