@@ -45,21 +45,20 @@ SQL Backend &amp; C#/Dapper Frontend GUI for TCSS445 Database Systems Design (Sp
 				12. The SSN is 9 digits****
 					
 			
-##### **** BUG - The only bug found was when leaving the SSN textbox empty in the UI *only from the ".exe". When ran from
-			the IDE it properly accepts an empty entry. In the SQL database the SSN is nullable but for some reason
-			only in the ".exe" version does it show an error that the SSN can't be nullable do to it also having a 
-			constraint attached to SSN. *Again, the Bug is in the Executable version, not the IDE version.
+ **** ***BUG*** - The only bug found was when leaving the SSN textbox empty in the UI *only from the ".exe". When ran from
+the IDE it properly accepts an empty entry. In the SQL database the SSN is nullable but for some reason
+only in the ".exe" version does it show an error that the SSN can't be nullable do to it also having a 
+constraint attached to SSN. *Again, the Bug is in the Executable version, not the IDE version.
 
 
-#### *** Addithionally the raw source files for the project will be incledded in "Mare_James_SQLHeathcareDatabaseAccess.zip"
+ *** Addithionally the raw source files for the project will be incledded in "Mare_James_SQLHeathcareDatabaseAccess.zip"
 	The project uses classes, is written in C# and needed the Dapper package installed for programming it. ** The 
 	Executable does not need an IDE or the Dapper package installed, this was tested. The IDE used was Microsoft
 	Visual Studio 2017 Community editiom (not VS Code). 
 
 ##### Referenced: https://youtu.be/Et2khGnrIqc
 
-~~~~~~~~~~~~~~~~~                ~~~~~~~~~~~~~~~~~                ~~~~~~~~~~~~~~~~~                ~~~~~~~~~~~~~~~~~                
-
+====================================================================================================================
 ##### Lastly 4 screenshots show the before & after shots of 2 senarios
 	Senario 1#	a & b
 	Senario 2#	a & b
