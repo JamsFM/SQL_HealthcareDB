@@ -22,11 +22,11 @@ SQL Backend &amp; C#/Dapper Frontend GUI for TCSS445 Database Systems Design (Sp
 				1. As long as you are correctly connected to the database then the search button will search for any 
 					patient as with matching "Last Name" so as to be able to find all people with the same last name
 					who may or may not be related who is also in the database.
-				2. Two existing patients have the last names "Smith" and "Johnson"
+				2. Two existing patients have the last names "*Smith*" and "*Johnson*"
 				3. Capitalization is relevant.
 				4. The output will be a list of patients depending on how many patients match your search criteria 
 					and they should be order by PatientId in ascending order and should have the following format:
-					"[PatientId] (Suffix) FirstName MiddleName LastName"
+					"*[PatientId] (Suffix) FirstName MiddleName LastName*"
 			
 			2. INSERT
 				1. Any TextBoxes with BLUE labels can be left empty for null values to take their place.
